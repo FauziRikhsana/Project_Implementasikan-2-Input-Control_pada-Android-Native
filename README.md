@@ -129,3 +129,11 @@ class MainActivity : AppCompatActivity() {
 }
 
 </p>
+
+<p>
+  Mohon maaf ibu atas ketidak maksimal nya dalam mengerjakan tugas ini dikarenakan terkendala eror nya aplikasi android studio yang terdapat pada gambar di bawah ini.
+Terimakasih banyak atas perhatian dan keringanan nya dalam mengerjakan tugas ini ibu
+</p>
+
+![alt text](https://github.com/FauziRikhsana/Project_Implementasikan-2-Input-Control_pada-Android-Native/blob/main/problem.png?raw=true)
+
